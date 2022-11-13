@@ -1,0 +1,15 @@
+.container{
+    max-width: 300px;
+    padding:30px;
+    margin: auto;
+    background-color:#0097e6;
+    color:#f5f6fa;
+    border-radius: 10px;
+}
+
+input{
+    padding:5px;
+    margin-bottom:10px;
+    width: 100%;
+    box-sizing: border-box;
+}
