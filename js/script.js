@@ -5,7 +5,7 @@ let resultado=document.getElementById("resultado");
 
 //util para testar o valor do input
 //console.log(inputAdultos.value=6,inputCriancas.value=3,inputDuracao.value=9);
-
+//aplicativo para iniciar em js
 function calcular(){
   //  console.log("calculando...")
 
