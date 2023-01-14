@@ -9,3 +9,6 @@ js
 *evento onclik
 
 https://eclipsecjp.github.io/Churrascometro/
+
+![Captura de Tela (443)](https://user-images.githubusercontent.com/58758617/212499213-cb819c8f-5140-4886-885c-26244837c4de.png)
+
